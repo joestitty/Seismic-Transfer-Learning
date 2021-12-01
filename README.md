@@ -1,13 +1,13 @@
 # Identifying Geologic Facies Through Seismic Dataset-to-Dataset Transfer Learning using Convolutional Neural Networks
 
 
-**Instructions for Code Organization**
+## Instructions for Code Organization
 
 This text file is designed to direct the viewer to the most important information in this code submission.
 
 File type designated for jupyter notebooks or collab.
 
--	The “final_successful_turn_in.ipynb” is the main baseline training and transfer learning code used. For grading purposes, this is really the only file you should need to look at if you want a general idea of how the code works. All other folders contain jupyter notebook files with different hyperparameter combination results, data augmentation testing, and colorplot generating for our metric tests.
+-	The **“final_successful_turn_in.ipynb”** is the main baseline training and transfer learning code used. **For grading purposes, this is really the only file you should need to look at if you want a general idea of how the code works.** All other folders contain jupyter notebook files with different hyperparameter combination results, data augmentation testing, and colorplot generating for our metric tests.
     -	Any information contained outside the organized folders is considered to be important and the main code submission. This code file is the same format used as a baseline for changing hyperparameters. 
 
 -	Folder called “Testing_Results” will be used to store hyperparameter combinations of the original “final_successful_turn_in.ipynb” file. 
